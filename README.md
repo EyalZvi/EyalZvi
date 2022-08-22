@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Eyal Zvi</h1>
 <h3 align="center">4th Year Communication Systems Engineering Student At Ben Gurion University</h3>
 
-- 🔭 I’m currently working on **My Engineering Project**
+- 🔭 I’m currently working on **my engineering final project**
 
 - 🌱 I’m currently learning **PyTorch**
 
 - 📫 How to reach me **eyalzvi11@gmail.com**
 
-- ⚡ Fun fact **I Can Beatbox**
+- ⚡ Fun fact **i can beatbox**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
