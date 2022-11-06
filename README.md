@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Eyal Zvi</h1>
 <h3 align="center">4th Year Communication Systems Engineering Student At Ben Gurion University</h3>
 
-- 🔭 I’m currently working on **My Engineering Project**
+- 🔭 I’m currently working on my **Final Engineering project**
 
 - 🌱 I’m currently learning **PyTorch**
 
