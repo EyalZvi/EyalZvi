@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on my **Final Engineering project**
 
-- 🌱 I’m currently learning **PyTorch Distributed**
+- 🌱 I’m currently learning **PyTorch Distributed Library**
 
 - 📫 How to reach me **eyalzvi11@gmail.com**
 
