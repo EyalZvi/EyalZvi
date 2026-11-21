@@ -1,17 +1,44 @@
-<h1 align="center">Hi 👋, I'm Eyal Zvi</h1>
-<h3 align="center">4th Year Communication Systems Engineering Student At Ben Gurion University</h3>
+# Eyal Zvi
 
-- 🔭 I’m currently working on my **Final Engineering project**
+**Algorithms & Sensor Fusion Engineer | Localization and Tracking**<br>
+Ph.D. Candidate, Electrical and Computer Engineering, Ben-Gurion University
 
-- 🌱 I’m currently learning **PyTorch Distributed Library**
+Systems engineer at ELTA working on radar fusion and tracking, and Ph.D. candidate in cooperative GNSS localization for autonomous driving. Skilled in sensor fusion and optimization.
 
-- 📫 How to reach me **eyalzvi11@gmail.com**
+## Experience
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/eyal-zvi-a48935220" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eyal-zvi-a48935220" height="30" width="40" /></a>
+**Systems Engineer**, ELTA Systems Ltd (2025 – Present)<br>
+Developed inter-radar fusion, tracking and decision-making features for ELTA radar systems. Defined system and sub-system architectures and managed requirements in Polarion and Jira.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+**Graduate Researcher**, Ben-Gurion University (2023 – Present)<br>
+Developed PRIME, an initialization method for maximum-likelihood cooperative vehicle localization that combines GNSS with vehicle-to-vehicle ranges. On real urban traffic trajectories, it reduced the mean error of six iterative solvers by up to 37.7% and their iterations by up to 27%. Implemented the method and its evaluation pipeline in Python.
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=eyalzvi&show_icons=true&locale=en&layout=compact" alt="eyalzvi" /></p>
+**Teaching Assistant**, Distributed Algorithms Course, Ben-Gurion University (2024 – 2025)<br>
+Delivered practical lectures, and created and graded the course assignments.
+
+## Publications
+
+E. Zvi, I. Bilik, M. Segal, "PRIME: Plug-In Range-Based Initialization for Maximum-Likelihood Estimation in Cooperative Vehicle Localization," *IEEE Transactions on Aerospace and Electronic Systems*, under review.
+
+## Education
+
+- **Ph.D. Candidate**, Electrical and Computer Engineering, Ben-Gurion University (2025 – Present)
+- **M.Sc.**, Communication Systems Engineering, Ben-Gurion University (2023 – 2025)
+- **B.Sc.**, Communication Systems Engineering, Ben-Gurion University (2019 – 2023)
+
+## Skills
+
+Python · C/C++ · MATLAB · Sensor Fusion · Tracking · Git · Claude Code
+
+## Courses
+
+**System Engineering Fundamentals**, INCOSE Course, IAI Academy, 2026
+
+## Military Service
+
+**Weapon Systems Verification**, Maglan Unit, Israel Defense Forces (2016 – 2019)<br>
+Tested and supplied advanced weapon systems and robotics, including optical sights and night-vision devices.
+
+## Contact
+
+[LinkedIn](https://linkedin.com/in/eyal-zvi-a48935220) · eyalzvi11@gmail.com
