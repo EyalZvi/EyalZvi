@@ -30,15 +30,6 @@ E. Zvi, I. Bilik, M. Segal, "PRIME: Plug-In Range-Based Initialization for Maxim
 
 Python · C/C++ · MATLAB · Sensor Fusion · Tracking · Git · Claude Code
 
-## Courses
-
-**System Engineering Fundamentals**, INCOSE Course, IAI Academy, 2026
-
-## Military Service
-
-**Weapon Systems Verification**, Maglan Unit, Israel Defense Forces (2016 – 2019)<br>
-Tested and supplied advanced weapon systems and robotics, including optical sights and night-vision devices.
-
 ## Contact
 
 [LinkedIn](https://linkedin.com/in/eyal-zvi-a48935220) · eyalzvi11@gmail.com
